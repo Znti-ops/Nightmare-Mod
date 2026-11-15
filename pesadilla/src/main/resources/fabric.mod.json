@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "pesadilla",
+  "version": "${version}",
+  "name": "Pesadilla",
+  "description": "El Acechador te sigue en la oscuridad. Tu cordura se rompe. No lo mires a los ojos.",
+  "authors": ["Claude"],
+  "license": "MIT",
+  "icon": "assets/pesadilla/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.pesadilla.Pesadilla"],
+    "client": ["com.pesadilla.client.PesadillaClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

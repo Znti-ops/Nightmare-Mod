@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["minecraft:bone_meal", "minecraft:glowstone_dust", "minecraft:iron_nugget"],
+  "result": { "id": "pesadilla:salt_charm", "count": 2 }
+}

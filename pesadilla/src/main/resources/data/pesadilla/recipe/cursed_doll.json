@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["minecraft:bone", "minecraft:white_wool", "minecraft:fermented_spider_eye"],
+  "result": { "id": "pesadilla:cursed_doll", "count": 1 }
+}
